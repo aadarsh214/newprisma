@@ -16,8 +16,10 @@ datasource db {
 model User{
   id        Int      @id @default(autoincrement())
   username String
+  password String
   firstName String?
   lastName  String?
+  email     String  @unique
 }
 
 model Todo {
