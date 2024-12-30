@@ -1,0 +1,26 @@
+{
+  "name": "newprisma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aadarsh214/newprisma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aadarsh214/newprisma/issues"
+  },
+  "homepage": "https://github.com/aadarsh214/newprisma#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "prisma": "^6.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
